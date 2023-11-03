@@ -2,6 +2,7 @@ username = "Admin"
 password = "1234"
 contFull = "Yes"
 
+print("Username = Admin\nPassword = 1234")
 while contFull == "Yes":
 
     userIn = input("Username: ")
